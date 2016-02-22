@@ -66,4 +66,8 @@ void Student::read()
 }
 }
 }
-void student::pack()
+void Student::pack()
+{
+	string temp,1;
+	temp=usn+|
+}
