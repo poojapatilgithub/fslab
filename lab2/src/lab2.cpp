@@ -66,3 +66,4 @@ void Student::read()
 }
 }
 }
+void student::pack()
